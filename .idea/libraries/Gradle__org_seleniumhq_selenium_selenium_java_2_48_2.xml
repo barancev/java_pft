@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Gradle: org.seleniumhq.selenium:selenium-java:2.48.2">
-    <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-java/2.48.2/97e2c7b45cfe3e11a33d4710660838eb57a42531/selenium-java-2.48.2.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
