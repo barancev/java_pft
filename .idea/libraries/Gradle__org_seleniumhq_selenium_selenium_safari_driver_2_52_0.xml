@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.seleniumhq.selenium:selenium-safari-driver:2.52.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-safari-driver/2.52.0/a377890cd15973e529e5935786d5f440b5b845f/selenium-safari-driver-2.52.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-safari-driver/2.52.0/503c33142c57a4d5b6e9e501057779c545e8bfed/selenium-safari-driver-2.52.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
