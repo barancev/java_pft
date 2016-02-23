@@ -8,4 +8,5 @@ dependencies {
     compile 'org.testng:testng:6.9.10'
     compile 'org.seleniumhq.selenium:selenium-java:2.52.0'
     compile 'org.hamcrest:java-hamcrest:2.0.0.0'
+    compile 'com.beust:jcommander:1.48'
 }

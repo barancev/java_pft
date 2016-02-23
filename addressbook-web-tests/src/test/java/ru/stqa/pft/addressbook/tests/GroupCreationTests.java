@@ -10,7 +10,6 @@ import static org.hamcrest.MatcherAssert.assertThat;
 public class GroupCreationTests extends TestBase {
 
   @Test
-
   public void testGroupCreation() {
     app.goTo().groupPage();
     Groups before = app.group().all();
