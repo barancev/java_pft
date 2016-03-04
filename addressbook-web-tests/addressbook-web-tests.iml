@@ -15,17 +15,39 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Gradle: org.testng:testng:6.9.10" level="project" />
+    <orderEntry type="library" name="Gradle: org.seleniumhq.selenium:selenium-java:2.52.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.hamcrest:java-hamcrest:2.0.0.0" level="project" />
     <orderEntry type="library" name="Gradle: com.beust:jcommander:1.48" level="project" />
+    <orderEntry type="library" name="Gradle: com.thoughtworks.xstream:xstream:1.4.8" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.code.gson:gson:2.6.1" level="project" />
+    <orderEntry type="library" name="Gradle: ch.qos.logback:logback-classic:1.1.5" level="project" />
+    <orderEntry type="library" name="Gradle: mysql:mysql-connector-java:5.1.38" level="project" />
     <orderEntry type="library" name="Gradle: org.beanshell:bsh:2.0b4" level="project" />
+    <orderEntry type="library" name="Gradle: org.seleniumhq.selenium:selenium-chrome-driver:2.52.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.seleniumhq.selenium:selenium-edge-driver:2.52.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.seleniumhq.selenium:selenium-htmlunit-driver:2.52.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.seleniumhq.selenium:selenium-firefox-driver:2.52.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.seleniumhq.selenium:selenium-ie-driver:2.52.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.seleniumhq.selenium:selenium-safari-driver:2.52.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.seleniumhq.selenium:selenium-support:2.52.0" level="project" />
     <orderEntry type="library" name="Gradle: org.webbitserver:webbit:0.4.14" level="project" />
+    <orderEntry type="library" name="Gradle: org.seleniumhq.selenium:selenium-leg-rc:2.52.0" level="project" />
+    <orderEntry type="library" name="Gradle: xmlpull:xmlpull:1.1.3.1" level="project" />
+    <orderEntry type="library" name="Gradle: xpp3:xpp3_min:1.1.4c" level="project" />
+    <orderEntry type="library" name="Gradle: ch.qos.logback:logback-core:1.1.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.16" level="project" />
+    <orderEntry type="library" name="Gradle: org.seleniumhq.selenium:selenium-remote-driver:2.52.0" level="project" />
     <orderEntry type="library" name="Gradle: commons-io:commons-io:2.4" level="project" />
     <orderEntry type="library" name="Gradle: org.apache.commons:commons-exec:1.3" level="project" />
     <orderEntry type="library" name="Gradle: net.sourceforge.htmlunit:htmlunit:2.18" level="project" />
+    <orderEntry type="library" name="Gradle: commons-collections:commons-collections:3.2.2" level="project" />
     <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpclient:4.5.1" level="project" />
     <orderEntry type="library" name="Gradle: net.java.dev.jna:jna:4.1.0" level="project" />
     <orderEntry type="library" name="Gradle: net.java.dev.jna:jna-platform:4.1.0" level="project" />
     <orderEntry type="library" name="Gradle: io.netty:netty:3.5.2.Final" level="project" />
     <orderEntry type="library" name="Gradle: cglib:cglib-nodep:2.1_3" level="project" />
+    <orderEntry type="library" name="Gradle: org.seleniumhq.selenium:selenium-api:2.52.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.guava:guava:19.0" level="project" />
     <orderEntry type="library" name="Gradle: xalan:xalan:2.7.2" level="project" />
     <orderEntry type="library" name="Gradle: org.apache.commons:commons-lang3:3.4" level="project" />
     <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpmime:4.5" level="project" />
@@ -44,26 +66,5 @@
     <orderEntry type="library" name="Gradle: org.eclipse.jetty.websocket:websocket-common:9.2.12.v20150709" level="project" />
     <orderEntry type="library" name="Gradle: org.eclipse.jetty.websocket:websocket-api:9.2.12.v20150709" level="project" />
     <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpcore:4.4.3" level="project" />
-    <orderEntry type="library" name="Gradle: commons-collections:commons-collections:3.2.2" level="project" />
-    <orderEntry type="library" name="Gradle: com.google.guava:guava:19.0" level="project" />
-    <orderEntry type="library" name="Gradle: org.hamcrest:java-hamcrest:2.0.0.0" level="project" />
-    <orderEntry type="library" name="Gradle: org.seleniumhq.selenium:selenium-java:2.52.0" level="project" />
-    <orderEntry type="library" name="Gradle: org.seleniumhq.selenium:selenium-chrome-driver:2.52.0" level="project" />
-    <orderEntry type="library" name="Gradle: org.seleniumhq.selenium:selenium-edge-driver:2.52.0" level="project" />
-    <orderEntry type="library" name="Gradle: org.seleniumhq.selenium:selenium-htmlunit-driver:2.52.0" level="project" />
-    <orderEntry type="library" name="Gradle: org.seleniumhq.selenium:selenium-firefox-driver:2.52.0" level="project" />
-    <orderEntry type="library" name="Gradle: org.seleniumhq.selenium:selenium-ie-driver:2.52.0" level="project" />
-    <orderEntry type="library" name="Gradle: org.seleniumhq.selenium:selenium-safari-driver:2.52.0" level="project" />
-    <orderEntry type="library" name="Gradle: org.seleniumhq.selenium:selenium-support:2.52.0" level="project" />
-    <orderEntry type="library" name="Gradle: org.seleniumhq.selenium:selenium-leg-rc:2.52.0" level="project" />
-    <orderEntry type="library" name="Gradle: org.seleniumhq.selenium:selenium-remote-driver:2.52.0" level="project" />
-    <orderEntry type="library" name="Gradle: org.seleniumhq.selenium:selenium-api:2.52.0" level="project" />
-    <orderEntry type="library" name="Gradle: com.thoughtworks.xstream:xstream:1.4.8" level="project" />
-    <orderEntry type="library" name="Gradle: xmlpull:xmlpull:1.1.3.1" level="project" />
-    <orderEntry type="library" name="Gradle: xpp3:xpp3_min:1.1.4c" level="project" />
-    <orderEntry type="library" name="Gradle: com.google.code.gson:gson:2.6.1" level="project" />
-    <orderEntry type="library" name="Gradle: ch.qos.logback:logback-classic:1.1.5" level="project" />
-    <orderEntry type="library" name="Gradle: ch.qos.logback:logback-core:1.1.5" level="project" />
-    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.16" level="project" />
   </component>
 </module>
