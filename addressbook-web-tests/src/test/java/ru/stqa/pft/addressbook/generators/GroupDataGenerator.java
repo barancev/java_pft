@@ -17,13 +17,13 @@ import java.util.List;
 
 public class GroupDataGenerator {
 
-  @Parameter(names = "-c", description = "Group count")
+  @Parameter(names = "-c", description = "Group count", required = true)
   public int count;
 
-  @Parameter(names = "-f", description = "Target file")
+  @Parameter(names = "-f", description = "Target file", required = true)
   public String file;
 
-  @Parameter(names = "-d", description = "Data format")
+  @Parameter(names = "-d", description = "Data format", required = true)
   public String format;
 
   public static void main(String[] args) throws IOException {
