@@ -13,6 +13,7 @@ dependencies {
     compile 'com.google.code.gson:gson:2.6.1'
     compile 'ch.qos.logback:logback-classic:1.1.5'
     compile 'mysql:mysql-connector-java:5.1.38'
+    compile 'org.hibernate:hibernate-core:5.1.0.Final'
 }
 
 task testGroups(type: Test) {
