@@ -60,5 +60,13 @@
     <orderEntry type="library" name="Gradle: xml-apis:xml-apis:1.4.01" level="project" />
     <orderEntry type="library" name="Gradle: com.google.code.gson:gson:2.3.1" level="project" />
     <orderEntry type="library" name="Gradle: commons-net:commons-net:3.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.subethamail:subethasmtp:3.1.7" level="project" />
+    <orderEntry type="library" name="Gradle: javax.mail:mail:1.4.4" level="project" />
+    <orderEntry type="library" name="Gradle: javax.activation:activation:1.1.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.code.findbugs:jsr305:1.3.9" level="project" />
+    <orderEntry type="library" name="Gradle: ru.lanwen.verbalregex:java-verbal-expressions:1.4" level="project" />
+    <orderEntry type="library" name="Gradle: ch.qos.logback:logback-classic:1.1.5" level="project" />
+    <orderEntry type="library" name="Gradle: ch.qos.logback:logback-core:1.1.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.16" level="project" />
   </component>
 </module>
