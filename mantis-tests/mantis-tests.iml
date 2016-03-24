@@ -68,5 +68,13 @@
     <orderEntry type="library" name="Gradle: ch.qos.logback:logback-classic:1.1.5" level="project" />
     <orderEntry type="library" name="Gradle: ch.qos.logback:logback-core:1.1.5" level="project" />
     <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.16" level="project" />
+    <orderEntry type="library" name="Gradle: biz.futureware.mantis:mantis-axis-soap-client:1.2.19" level="project" />
+    <orderEntry type="library" name="Gradle: axis:axis:1.4" level="project" />
+    <orderEntry type="library" name="Gradle: axis:axis-jaxrpc:1.4" level="project" />
+    <orderEntry type="library" name="Gradle: axis:axis-saaj:1.4" level="project" />
+    <orderEntry type="library" name="Gradle: axis:axis-wsdl4j:1.5.1" level="project" />
+    <orderEntry type="library" name="Gradle: commons-discovery:commons-discovery:0.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.axis:axis-jaxrpc:1.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.axis:axis-saaj:1.4" level="project" />
   </component>
 </module>
