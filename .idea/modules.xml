@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/addressbook-web-tests/addressbook-web-tests.iml" filepath="$PROJECT_DIR$/addressbook-web-tests/addressbook-web-tests.iml" />
       <module fileurl="file://$PROJECT_DIR$/mantis-tests/mantis-tests.iml" filepath="$PROJECT_DIR$/mantis-tests/mantis-tests.iml" />
       <module fileurl="file://$PROJECT_DIR$/sandbox/sandbox.iml" filepath="$PROJECT_DIR$/sandbox/sandbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soap-sample/soap-sample.iml" filepath="$PROJECT_DIR$/soap-sample/soap-sample.iml" />
     </modules>
   </component>
 </project>
