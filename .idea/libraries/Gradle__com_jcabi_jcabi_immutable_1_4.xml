@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.jcabi:jcabi-immutable:1.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jcabi/jcabi-immutable/1.4/30631108a168ba6d23b81e0dbf396170227c1672/jcabi-immutable-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jcabi/jcabi-immutable/1.4/872ed6e02af1e0b618da40712d86c703c0b4cf2c/jcabi-immutable-1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

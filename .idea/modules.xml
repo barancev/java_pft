@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/addressbook-web-tests/addressbook-web-tests.iml" filepath="$PROJECT_DIR$/addressbook-web-tests/addressbook-web-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/github-sample/github-sample.iml" filepath="$PROJECT_DIR$/github-sample/github-sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/mantis-tests/mantis-tests.iml" filepath="$PROJECT_DIR$/mantis-tests/mantis-tests.iml" />
       <module fileurl="file://$PROJECT_DIR$/rest-sample/rest-sample.iml" filepath="$PROJECT_DIR$/rest-sample/rest-sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/sandbox/sandbox.iml" filepath="$PROJECT_DIR$/sandbox/sandbox.iml" />
