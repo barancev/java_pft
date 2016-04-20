@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="soap-sample:test" external.linked.project.path="$MODULE_DIR$/../../soap-sample" external.root.project.path="$MODULE_DIR$/../../soap-sample" external.system.id="GRADLE" external.system.module.group="" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="false">
+    <output-test url="file://$MODULE_DIR$/../../soap-sample/build/classes/test" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../soap-sample/src/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../soap-sample/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../soap-sample/src/test/resources" type="java-test-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="soap-sample_main" />
+    <orderEntry type="library" name="Gradle: org.testng:testng:6.9.10" level="project" />
+    <orderEntry type="library" name="Gradle: com.beust:jcommander:1.48" level="project" />
+    <orderEntry type="library" name="Gradle: org.beanshell:bsh:2.0b4" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="soap-sample_main" />
+</module>

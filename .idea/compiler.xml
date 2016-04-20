@@ -18,5 +18,11 @@
         <processorPath useClasspath="true" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sandbox_main" target="1.8" />
+      <module name="sandbox_test" target="1.8" />
+      <module name="soap-sample_main" target="1.8" />
+      <module name="soap-sample_test" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
