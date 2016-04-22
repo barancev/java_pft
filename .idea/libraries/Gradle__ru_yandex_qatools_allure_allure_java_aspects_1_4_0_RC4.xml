@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ru.yandex.qatools.allure:allure-java-aspects:1.4.0.RC4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ru.yandex.qatools.allure/allure-java-aspects/1.4.0.RC4/50a1916ff4067d639d1a441d3fc10ba407e423c/allure-java-aspects-1.4.0.RC4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ru.yandex.qatools.allure/allure-java-aspects/1.4.0.RC4/f4d3e0529ac5d53a2c41086eb5057cd0c7fb50f0/allure-java-aspects-1.4.0.RC4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
