@@ -20,6 +20,7 @@ dependencies {
     compile 'org.hibernate:hibernate-core:5.1.0.Final'
     agent "org.aspectj:aspectjweaver:1.8.0"
     compile "ru.yandex.qatools.allure:allure-testng-adaptor:1.4.0.RC4"
+    compile 'org.robotframework:robotframework:3.0'
 }
 
 task testGroups(type: Test) {
@@ -60,4 +61,11 @@ task testContacts(type: Test) {
     if (project.hasProperty('verifyUI')) {
         systemProperty 'verifyUI', "${verifyUI}"
     }
+}
+
+task rf(type: JavaExec) {
+    main = 'org.robotframework.RobotFramework'
+    classpath = sourceSets.test.runtimeClasspath
+    args '--outputdir', 'build/rf-report'
+    args 'src/test/resources/rf'
 }
