@@ -21,6 +21,8 @@ dependencies {
     agent "org.aspectj:aspectjweaver:1.8.0"
     compile "ru.yandex.qatools.allure:allure-testng-adaptor:1.4.0.RC4"
     compile 'org.robotframework:robotframework:3.0'
+    compile 'info.cukes:cucumber-java:1.2.4'
+    compile 'info.cukes:cucumber-testng:1.2.4'
 }
 
 task testGroups(type: Test) {
